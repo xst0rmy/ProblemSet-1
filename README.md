@@ -23,7 +23,7 @@ Below are steps I used to execute "calc.exe" at the startup of my Windows 10 OS
 
 ![](https://github.com/xst0rmy/ProblemSet-1/blob/main/3.png)
 
-### I clicked on "microsoft" as shown in the image below
+### I clicked on "Microsoft" as shown in the image below
 
 ![](https://github.com/xst0rmy/ProblemSet-1/blob/main/4.png)
 
@@ -31,7 +31,7 @@ Below are steps I used to execute "calc.exe" at the startup of my Windows 10 OS
 
 ![](https://github.com/xst0rmy/ProblemSet-1/blob/main/5.png)
 
-### I scrolled down and clicked on "CurrentVersion" as shown in the image below
+### I clicked on "CurrentVersion" as shown in the image below
 
 ![](https://github.com/xst0rmy/ProblemSet-1/blob/main/6.png)
 
@@ -56,13 +56,9 @@ In the image below, I inputed the wrong "Value Data" by mistake
 ![](https://github.com/xst0rmy/ProblemSet-1/blob/main/7bc.png)
 
 
-I couldn't understand why the application didn't startup after restarting my PC, then I made changes to the Value Data as shown in the image below 
+I couldn't understand why the application didn't startup after restarting my PC, then I made changes to the Value Data and the Calculator application as before didn't startup after rebooting. I wanted to fix it what was wrong and I knew it's got to be the Value Data 
 
-![](https://github.com/xst0rmy/ProblemSet-1/blob/main/7bc.png)
-
-The Calculator application didn't startup after rebooting and I wasn't happy. I wanted to fix it what was wrong and I knew it's got to be the Value Data that was wrong 
-
-The image below shows one of the many times I was restarted my PC
+The image below shows one of the many times I was about to restart my PC
 
 ![](https://github.com/xst0rmy/ProblemSet-1/blob/main/10.png)
 
@@ -70,21 +66,21 @@ Then I made further changes to the "Value Data" as shown in the image below. I f
 
 ![](https://github.com/xst0rmy/ProblemSet-1/blob/main/12.png)
 
-As you can already imagine. Yes I was disappointed once again and i was also more determined to make it work. Just then an idea struck me, and I thought, "how about I confirm where the application is stored on the terminal?"
+As you can already imagine, I was disappointed once again but I was also more determined to make it work. Just then an idea struck me, and I thought, "how about I confirm where the application is stored on the terminal?"
 
-### I opened the command prompt to launch the terminal and inputed this command:
+### I opened the Command Prompt and inputed this command on the Terminal:
 
-'''
+```
 
 where calc.exe
 
-'''
+```
 
 ### The image below gives a better description
 
 ![](https://github.com/xst0rmy/ProblemSet-1/blob/main/13.png)
 
-Immediately I realised i was using the wrong file path and I made changes as shown in the image below
+I realised I was using the wrong file path and I made changes as shown in the image below
 
 ![](https://github.com/xst0rmy/ProblemSet-1/blob/main/14.png)
 
