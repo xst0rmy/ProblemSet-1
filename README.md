@@ -12,36 +12,36 @@ Below are steps I used to execute "calc.exe" at the startup of my Windows 10 OS
 
 ### I searched for Registry Editor in Windows search bar and clicked on the Registry Editor application and was shown the page below 
 
-![Registry Editor](https://github.com/xst0rmy/ProblemSet-1/blob/main/1.png)
+![Registry Editor](https://github.com/xst0rmy/ProblemSet-1/blob/main/1%20copy.png)
 
 
 ### I selected "HKEY_CURRENT-USER" as shown in the image below
 
-![](https://github.com/xst0rmy/ProblemSet-1/blob/main/2.png)
+[![](https://github.com/xst0rmy/ProblemSet-1/blob/main/2%20copy.png)
 
 ### I clicked on "Software" as shown in the image below
 
-![](https://github.com/xst0rmy/ProblemSet-1/blob/main/3.png)
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/3%20copy.png)
 
 ### I clicked on "Microsoft" as shown in the image below
 
-![](https://github.com/xst0rmy/ProblemSet-1/blob/main/4.png)
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/4%20copy.png)
 
 ### I scrolled down and clicked on "Windows" as shown in the image below
 
-![](https://github.com/xst0rmy/ProblemSet-1/blob/main/5.png)
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/5%20copy.png)
 
 ### I clicked on "CurrentVersion" as shown in the image below
 
-![](https://github.com/xst0rmy/ProblemSet-1/blob/main/6.png)
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/6%20copy.png)
 
 ### I clicked on "Run" and right clicked to show the option "New" as shown in the image below
 
-![](https://github.com/xst0rmy/ProblemSet-1/blob/main/7.png)
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/7%20copy.png)
 
 ### I selected the option "New" and was presented with more options and I selected "String Value" as shown in the image below
 
-![](https://github.com/xst0rmy/ProblemSet-1/blob/main/8.png)
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/8%20copy.png)
 
 ## I got to find out there was another way to create a new startup process. Click the "Edit" option on the top left section of your screen and click on "New" and click on "String Value" as shown in the image below
 
@@ -60,7 +60,9 @@ I couldn't understand why the application didn't startup after restarting my PC,
 
 The image below shows one of the many times I was about to restart my PC
 
-![](https://github.com/xst0rmy/ProblemSet-1/blob/main/10.png)
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/10%20copy.png)
+
+![](https://github.com/xst0rmy/ProblemSet-1)
 
 Then I made further changes to the "Value Data" as shown in the image below. I felt fairly certain I had figured it out at last (The value data seems more reasonable, or so I thought)
 
