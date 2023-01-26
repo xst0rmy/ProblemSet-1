@@ -78,7 +78,8 @@ where calc.exe
 
 ### The image below gives a better description
 
-![](https://github.com/xst0rmy/ProblemSet-1/blob/main/13.png)
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/Screenshot%202023-01-26%20at%2012.19.43.png)
+
 
 I realised I was using the wrong file path and I made changes as shown in the image below
 
