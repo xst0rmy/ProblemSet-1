@@ -93,7 +93,71 @@ I realised I was using the wrong file path and I made changes as shown in the im
 ![](https://github.com/xst0rmy/ProblemSet-1/blob/main/16.png)
 
 
-#2. Execute "notepad.exe" every 3 hours using Task Schedular
+# 2. Execute "notepad.exe" every 3 hours using Task Schedular
+
+## Below is a detailed explanation of how I used Task Scheduler to automate the periodic running of notepad.exe.
+
+Task scheduler is an application on windows that is used to automate tasks periodically and it can also be used to automatically startup apps at boot.
+
+There are numerous options available for you to tweak to your needs when scheduling an application in Task scheduler. Below are the steps I followed to achieve my assigned task of getting task scheduler to execute "notepad.exe" every 3 hours.
+
+### In the first image below, I searched for Task Scheduler in windows search bar and clicked on the application.
+
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/1.png)
+
+### I was presented with the Task scheduler's home page
+
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/2.png)
+
+### I right-clicked on Task Scheduler Library and clicked on "New Folder"
+
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/3.png)
+
+### I named the folder 
+
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/4.png)
+
+### I clicked on the ">" beside the Task Scheduler Library
+
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/5.png)
+
+### I clicked on my newly created folder
+
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/6.png)
+
+### I clicked the "Action" tab at the top left side of the screen and clicked on "Create Task" 
+
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/7.png)
+
+### I gave it a task name. The Description is optional and I choose other settings as I saw important 
+
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/9.png)
+
+
+
+
+
+
+
+
+![]()
+![]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
