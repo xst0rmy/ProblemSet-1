@@ -62,11 +62,11 @@ The image below shows one of the many times I was about to restart my PC
 
 ![](https://github.com/xst0rmy/ProblemSet-1/blob/main/10%20copy.png)
 
-![](https://github.com/xst0rmy/ProblemSet-1)
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/11%20copy.png)
 
 Then I made further changes to the "Value Data" as shown in the image below. I felt fairly certain I had figured it out at last (The value data seems more reasonable, or so I thought)
 
-![](https://github.com/xst0rmy/ProblemSet-1/blob/main/12.png)
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/12%20copy.png)
 
 As you can already imagine, I was disappointed once again but I was also more determined to make it work. Just then an idea struck me, and I thought, "how about I confirm where the application is stored on the terminal?"
 
@@ -80,20 +80,20 @@ where calc.exe
 
 ### The image below gives a better description
 
-![](https://github.com/xst0rmy/ProblemSet-1/blob/main/Screenshot%202023-01-26%20at%2012.19.43.png)
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/13%20copy.png)
 
 
 I realised I was using the wrong file path and I made changes as shown in the image below
 
-![](https://github.com/xst0rmy/ProblemSet-1/blob/main/14.png)
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/14%20copy.png)
 
 ### In the image below, I was restarting my PC
 
-![](https://github.com/xst0rmy/ProblemSet-1/blob/main/15.png)
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/15%20copy.png)
 
 ## Voila! It worked 
 
-![](https://github.com/xst0rmy/ProblemSet-1/blob/main/16.png)
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/16%20copy.png)
 
 
 # 2. Execute "notepad.exe" every 2 hours using Task Schedular
