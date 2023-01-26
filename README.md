@@ -1,6 +1,6 @@
-# My Pset1 (Windows OS and Persistence)
+# My Pset (Windows OS and Persistence)
 
-## 1. Execute Windows Program At Startup Using Registry Editor
+## Pset 1. Execute Windows Program At Startup Using Registry Editor
 
 ### Below is my detailed process of how I was able to execute my calculator application (calc.exe) at startup of my windows OS. The process I'll show you below includes mistakes I made before I finally suceeded at my assigned problem set.
 
@@ -96,7 +96,7 @@ I realised I was using the wrong file path and I made changes as shown in the im
 ![](https://github.com/xst0rmy/ProblemSet-1/blob/main/16%20copy.png)
 
 
-# 2. Execute "notepad.exe" every 2 hours using Task Schedular
+# Pset 2. Execute "notepad.exe" every 2 hours using Task Schedular
 
 ## Below is a detailed explanation of how I used Task Scheduler to automate the periodic running of notepad.exe.
 
