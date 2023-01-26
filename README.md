@@ -93,13 +93,13 @@ I realised I was using the wrong file path and I made changes as shown in the im
 ![](https://github.com/xst0rmy/ProblemSet-1/blob/main/16.png)
 
 
-# 2. Execute "notepad.exe" every 3 hours using Task Schedular
+# 2. Execute "notepad.exe" every 2 hours using Task Schedular
 
 ## Below is a detailed explanation of how I used Task Scheduler to automate the periodic running of notepad.exe.
 
 Task scheduler is an application on windows that is used to automate tasks periodically and it can also be used to automatically startup apps at boot.
 
-There are numerous options available for you to tweak to your needs when scheduling an application in Task scheduler. Below are the steps I followed to achieve my assigned task of getting task scheduler to execute "notepad.exe" every 3 hours.
+There are numerous options available for you to tweak to your needs when scheduling an application in Task scheduler. Below are the steps I followed to achieve my assigned task of getting task scheduler to execute "notepad.exe" every 2 hours.
 
 ### In the first image below, I searched for Task Scheduler in windows search bar and clicked on the application.
 
@@ -133,15 +133,56 @@ There are numerous options available for you to tweak to your needs when schedul
 
 ![](https://github.com/xst0rmy/ProblemSet-1/blob/main/9.png)
 
+### I clicked on "Triggers" and clicked on "New"
+
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/8.png)
+
+### I clicked on "Daily" and chose other suitable options in the "Advanced" Section
+
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/10.png)
+
+### I clicked on "Action" tab and clicked on "New"
+
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/11.png)
+
+### I chose "Start a program" and clicked on "Browse"  
+
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/12.png)
+
+### I typed "notepad" in the "File name" menu and clicked on the file name extension that was suggested and I clicked on "Open"
+
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/13.png)
+
+### The "Program/script" option automatically displays the file path. I clicked on "Ok"
+
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/14.png)
+
+### I clicked on "Conditions" and set the suitable options and clicked on "Ok"
+
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/16.png)
+
+### I clicked on "Settings" and again chose suitable options and clicked on "Ok"
+
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/17.png)
+
+### Now our new task is ready to run. Click the "Run" option on the "Selected Task" at the lower right side of thge screen
+
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/18.png)
+
+### I closed the task scheduler app and "Notepad" application is already launched on my PC
+
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/19.png)
+
+### I closed the Notepad application and 2 hours later, the Task Scheduler relaunched the app (Time stamp differs)
+
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/20.png)
+
+#### That is the comprehensive process I used to execute an application every 2 hours using Task Scheduler.
 
 
 
 
 
-
-
-![]()
-![]()
 
 
 
