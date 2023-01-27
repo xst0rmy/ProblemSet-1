@@ -15,9 +15,9 @@ Below are steps I used to execute "calc.exe" at the startup of my Windows 10 OS
 ![Registry Editor](https://github.com/xst0rmy/ProblemSet-1/blob/main/1%20copy.png)
 
 
-### I selected "HKEY_CURRENT-USER" as shown in the image below
+ I selected "HKEY_CURRENT-USER" as shown in the image below
 
-[![](https://github.com/xst0rmy/ProblemSet-1/blob/main/2%20copy.png)
+![](https://github.com/xst0rmy/ProblemSet-1/blob/main/2%20copy.png)
 
 ### I clicked on "Software" as shown in the image below
 
@@ -39,17 +39,17 @@ Below are steps I used to execute "calc.exe" at the startup of my Windows 10 OS
 
 ![](https://github.com/xst0rmy/ProblemSet-1/blob/main/7%20copy.png)
 
-### I selected the option "New" and was presented with more options and I selected "String Value" as shown in the image below
+##### I selected the option "New" and was presented with more options and I selected "String Value" as shown in the image below
 
 ![](https://github.com/xst0rmy/ProblemSet-1/blob/main/8%20copy.png)
 
-## I got to find out there was another way to create a new startup process. Click the "Edit" option on the top left section of your screen and click on "New" and click on "String Value" as shown in the image below
+##### I got to find out there was another way to create a new startup process. Click the "Edit" option on the top left section of your screen and click on "New" and click on "String Value" as shown in the image below
 
 ![](https://github.com/xst0rmy/ProblemSet-1/blob/main/7b.png)
 
-#### You'll be presented with an option to input "Value Name" and "Value Data". Value name describes whatever you want the process to be called, input something memorable, in this example, I used "Execute Cal". Now I think I should have used "Calculator" instead.
+##### You'll be presented with an option to input "Value Name" and "Value Data". Value name describes whatever you want the process to be called, input something memorable, in this example, I used "Execute Cal". Now I think I should have used "Calculator" instead.
 
-#### The Value data describes the path to the executable application you want to execute at startup.
+##### The Value data describes the path to the executable application you want to execute at startup.
 
 In the image below, I inputed the wrong "Value Data" by mistake
 
@@ -94,6 +94,7 @@ I realised I was using the wrong file path and I made changes as shown in the im
 ## Voila! It worked 
 
 ![](https://github.com/xst0rmy/ProblemSet-1/blob/main/16%20copy.png)
+
 
 
 # Pset 2. Execute "notepad.exe" every 2 hours using Task Schedular
