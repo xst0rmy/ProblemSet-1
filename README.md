@@ -2,6 +2,10 @@
 
 ## Pset 1. Execute Windows Program At Startup Using Registry Editor
 
+A Windows Registry is an application that stores data in binary format. It also stores the configuration data of the computer and of the various users in seperate files.
+
+Registry keys are created during the installation of the adapters when the windows operating system is instaklled in a computer. It contains informations and settings for all the preferences, hardware, software, and users of the the computer.
+
 Below is my detailed process of how I was able to execute my calculator application (calc.exe) at startup of my windows OS. The process I'll show you below includes mistakes I made before I finally suceeded at my assigned problem set.
 
 The Windows registry editor contains various informations and settings of the PC. It reflects and stores all changes made on the PC. For example, if changes were made to a file's control settings, or if a seperate user on the PC makes changes to their screensaver, all these changes are stored in the registry editor and used for future reference and execution. 
